@@ -1,9 +1,10 @@
-## I love games and I make games
+## 🎮 I love games and I make games 🎮
 I have hands-on experience building custom ray tracers and rasterizers, as well as developing features in a custom C++ game engine. I’ve also created games in both Unity and Unreal Engine, exploring gameplay/animation systems, tools, and interactive experiences across multiple platforms. Beyond programming, I’ve honed my game design skills through several board game projects. I aim to do more personal projects in C++ and Unreal Engine.
 
 I'm a certified Scrum Master, and I also have some experience in full-stack web development.
 
 My personal website is <https://zhirongzhang.com>
+
 Connect with me on LinkedIn -> <https://www.linkedin.com/in/zhirong-zhang/>
 
 <!--
